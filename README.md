@@ -41,4 +41,4 @@ These are my solutions for CS50's Introduction to Programming with R 2024.
 * <a href="https://cs50.harvard.edu/r/2024/psets/6/measure/">Measure Twice</a>
 * <a href="https://cs50.harvard.edu/r/2024/psets/6/believe/">Can You Believe in Machines?</a>
 
-<a href="hhttps://cs50.harvard.edu/r/2024/weeks/7/">Week 7 - Packaging Programs</a>
+<a href="https://cs50.harvard.edu/r/2024/weeks/7/">Week 7 - Packaging Programs</a>
